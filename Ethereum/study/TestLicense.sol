@@ -1,5 +1,6 @@
 /*
 Created a first sample contract to understand the Dev toolchain and deployment process
+Tested on http://remix.ethereum.org/ and Ethereum Wallet Dev tools from https://www.ethereum.org/
 */
 
 pragma solidity ^0.4.0;
